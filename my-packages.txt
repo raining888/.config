@@ -13,6 +13,10 @@ clang
 cmake
 dhcpcd
 efibootmgr
+fcitx
+fcitx-configtool
+fcitx-googlepinyin
+fcitx-im
 feh
 figlet
 fzf
