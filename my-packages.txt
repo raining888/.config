@@ -52,5 +52,7 @@ xfce4-power-manager
 xorg
 xorg-server
 xorg-xinit
+zathura
+zathura-pdf-poppler
 zip
 zsh
