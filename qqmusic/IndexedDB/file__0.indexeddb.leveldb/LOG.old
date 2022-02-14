@@ -1,0 +1,58 @@
+2021/12/30-21:35:28.981 bd2 Reusing MANIFEST /home/rain/.config/qqmusic/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/12/30-21:35:28.981 bd2 Recovering log #3
+2021/12/30-21:35:29.058 bd2 Reusing old log /home/rain/.config/qqmusic/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2021/12/30-21:42:02.979 5e84 Level-0 table #5: started
+2021/12/30-21:42:03.010 5e84 Level-0 table #5: 1115172 bytes OK
+2021/12/30-21:42:03.013 5e84 Delete type=0 #3
+2021/12/30-21:42:14.331 5e84 Level-0 table #7: started
+2021/12/30-21:42:14.410 5e84 Level-0 table #7: 1112883 bytes OK
+2021/12/30-21:42:14.413 5e84 Delete type=0 #4
+2021/12/30-21:42:23.224 5e84 Level-0 table #9: started
+2021/12/30-21:42:23.296 5e84 Level-0 table #9: 1558113 bytes OK
+2021/12/30-21:42:23.300 5e84 Delete type=0 #6
+2021/12/30-21:42:26.994 5e84 Level-0 table #11: started
+2021/12/30-21:42:27.033 5e84 Level-0 table #11: 2002843 bytes OK
+2021/12/30-21:42:27.040 5e84 Delete type=0 #8
+2021/12/30-21:42:51.584 5e84 Level-0 table #13: started
+2021/12/30-21:42:51.630 5e84 Level-0 table #13: 2447403 bytes OK
+2021/12/30-21:42:51.632 5e84 Delete type=0 #10
+2021/12/30-21:43:07.294 5e84 Level-0 table #15: started
+2021/12/30-21:43:07.343 5e84 Level-0 table #15: 2891814 bytes OK
+2021/12/30-21:43:07.345 5e84 Delete type=0 #12
+2021/12/30-21:43:07.347 5e84 Compacting 4@0 + 1@1 files
+2021/12/30-21:43:07.411 5e84 Generated table #16@0: 25 keys, 2891714 bytes
+2021/12/30-21:43:07.412 5e84 Generated table #17@0: 1 keys, 434 bytes
+2021/12/30-21:43:07.412 5e84 Compacted 4@0 + 1@1 files => 2892148 bytes
+2021/12/30-21:43:07.414 5e84 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/12/30-21:43:07.414 5e84 Delete type=2 #15
+2021/12/30-21:43:07.414 5e84 Delete type=2 #9
+2021/12/30-21:43:07.415 5e84 Delete type=2 #11
+2021/12/30-21:43:07.415 5e84 Delete type=2 #7
+2021/12/30-21:43:07.415 5e84 Delete type=2 #13
+2021/12/30-21:43:10.810 5e84 Level-0 table #19: started
+2021/12/30-21:43:10.915 5e84 Level-0 table #19: 3336263 bytes OK
+2021/12/30-21:43:10.921 5e84 Delete type=0 #14
+2021/12/30-21:43:59.254 5e84 Level-0 table #21: started
+2021/12/30-21:43:59.326 5e84 Level-0 table #21: 3780668 bytes OK
+2021/12/30-21:43:59.329 5e84 Delete type=0 #18
+2021/12/30-21:44:12.920 5e84 Level-0 table #23: started
+2021/12/30-21:44:12.970 5e84 Level-0 table #23: 4226050 bytes OK
+2021/12/30-21:44:12.973 5e84 Delete type=0 #20
+2021/12/30-21:45:10.248 5e84 Level-0 table #25: started
+2021/12/30-21:45:10.311 5e84 Level-0 table #25: 4617580 bytes OK
+2021/12/30-21:45:10.316 5e84 Delete type=0 #22
+2021/12/30-21:45:10.318 5e84 Compacting 4@0 + 2@1 files
+2021/12/30-21:45:10.497 5e84 Generated table #26@0: 38 keys, 2223408 bytes
+2021/12/30-21:45:10.540 5e84 Generated table #27@0: 3 keys, 2393658 bytes
+2021/12/30-21:45:10.542 5e84 Generated table #28@0: 1 keys, 434 bytes
+2021/12/30-21:45:10.542 5e84 Compacted 4@0 + 2@1 files => 4617500 bytes
+2021/12/30-21:45:10.544 5e84 compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/12/30-21:45:10.544 5e84 Delete type=2 #19
+2021/12/30-21:45:10.544 5e84 Delete type=2 #16
+2021/12/30-21:45:10.544 5e84 Delete type=2 #17
+2021/12/30-21:45:10.544 5e84 Delete type=2 #25
+2021/12/30-21:45:10.544 5e84 Delete type=2 #21
+2021/12/30-21:45:10.544 5e84 Delete type=2 #23
+2021/12/30-21:45:30.370 5e84 Level-0 table #30: started
+2021/12/30-21:45:30.451 5e84 Level-0 table #30: 5010924 bytes OK
+2021/12/30-21:45:30.455 5e84 Delete type=0 #24
