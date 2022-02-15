@@ -23,7 +23,7 @@ fzf
 gcc
 git
 grub
-inter-ucode
+intel-ucode
 linux
 linux-firmware
 make
